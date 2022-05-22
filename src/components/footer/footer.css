@@ -1,0 +1,11 @@
+footer {
+    font-weight: 500;
+    font-size: 20px;
+    justify-content: center;
+    margin: 50px auto;
+    padding: 35px;
+    display: flex;
+    border: 1px solid black;
+    background-color: black;
+    color: antiquewhite;
+  }
